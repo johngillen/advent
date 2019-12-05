@@ -7,3 +7,6 @@
 [submodule "advent-day3"]
 	path = advent-day3
 	url = git@github.com:johngillen/advent-day3
+[submodule "advent-day4"]
+	path = advent-day4
+	url = git@github.com:johngillen/advent-day4
